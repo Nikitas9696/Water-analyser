@@ -20,8 +20,8 @@ https://www.hellasdigital.gr/electronics/sensors/humidity-sensor/gravity-analog-
 5)Arduino Uno R3 με παρελκομενα
 https://www.hellasdigital.gr/go-create/kits/arduino-mega-diy-basic-learning-kit/
 
-6) Η/Υ 
+6)Η/Υ 
 
-7) 2 δοχεία μαζί με σωληνώσεις για υλοποίηση δοκιμών
+7)2 δοχεία μαζί με σωληνώσεις για υλοποίηση δοκιμών
 
 8)Επίσης θα χρησιμοποιηθούν αντιδραστήρια για την πιστοποίηση αποτελεσμάτων και χρησιμότητας του project.
