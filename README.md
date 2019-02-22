@@ -6,7 +6,6 @@
 
 1)Αντλία νερού για την ροή μαζί με ένα αισθητήρα ροής για μέτρηση των λίτρων χρήσης (Water flow sensor (Sea) YF-S201)
 https://www.hellasdigital.gr/electronics/sensors/humidity-sensor/water-flow-sensor-1-30l-min-2.0mpa-yf-s201/
-https://www.hellasdigital.gr/electronics/motors-and-drivers/liquid-pump-350gph-12v-rob-10455/
 
 2)Αισθητήρα θολότητας (Turbidity Sensor Suspended Turbidity Value Detection Module Kit Liquid Suspended Particles Turbidity Detection)
 https://www.hellasdigital.gr/electronics/sensors/humidity-sensor/gravity-analog-turbidity-sensor-for-arduino-sen0189/
