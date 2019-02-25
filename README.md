@@ -5,7 +5,7 @@
 Τα παιδιά θα χρειαστούν για την υλοποίηση της κατασκευής τους τα παρακάτω υλικά:
 
 1)Αντλία νερού για την ροή μαζί με ένα αισθητήρα ροής για μέτρηση των λίτρων χρήσης (Water flow sensor (Sea) YF-S201)
-https://www.hellasdigital.gr/electronics/sensors/humidity-sensor/water-flow-sensor-1-30l-min-2.0mpa-yf-s201/
+https://www.hellasdigital.gr/electronics/sensors/infrared-sensors/immersible-pump-and-watertube-fit0200/
 
 2)Αισθητήρα θολότητας (Turbidity Sensor Suspended Turbidity Value Detection Module Kit Liquid Suspended Particles Turbidity Detection)
 https://www.hellasdigital.gr/electronics/sensors/humidity-sensor/gravity-analog-turbidity-sensor-for-arduino-sen0189/
@@ -14,13 +14,24 @@ https://www.hellasdigital.gr/electronics/sensors/humidity-sensor/gravity-analog-
 https://www.hellasdigital.gr/electronics/sensors/temperature-sensors/waterproof-ds18b20-sensor-kit-kit0021/
 
 4)Αισθητήρα μέτρησης Ph (Liquid PH Value Detection Detect Regulator Sensor Module Monitoring Control Meter Tester PH 0-14 For Arduino)
-https://www.hellasdigital.gr/electronics/sensors/humidity-sensor/gravity-analog-ph-sensor-meter-pro-kit-for-arduino/
+https://www.hellasdigital.gr/electronics/sensors/humidity-sensor/gravity-analog-ph-sensor-meter-kit-for-arduino-sen0161/
 
 5)Arduino Uno R3 με παρελκομενα
 https://www.hellasdigital.gr/go-create/kits/arduino-mega-diy-basic-learning-kit/
 
-6)Η/Υ 
+6)12V Solenoid Valve - 3/4" ηλεκτροβαλβίδα ροής
+https://www.hellasdigital.gr/electronics/components/solenoid-valve/12v-solenoid-valve-3-4-rob-10456/
 
-7)2 δοχεία μαζί με σωληνώσεις για υλοποίηση δοκιμών
+7)Αισθητήρας διαληθέντων στερέων Analog TDS Sensor/Meter for Arduino
+https://www.hellasdigital.gr/electronics/sensors/humidity-sensor/gravity-analog-tds-sensor-meter-for-arduino-sen0244/
 
-8)Επίσης θα χρησιμοποιηθούν αντιδραστήρια για την πιστοποίηση αποτελεσμάτων και χρησιμότητας του project.
+8)Αγωγημόμετρο Analog Electrical Conductivity Sensor / Meter For Arduino
+https://www.hellasdigital.gr/electronics/sensors/conductive/gravity-analog-electrical-conductivity-sensor-meter-for-arduino-dfr0300/
+
+9)Αισθητήρας στάθμης νερού Non-contact Digital Water / Liquid Level Sensor For Arduino
+https://www.hellasdigital.gr/electronics/sensors/humidity-sensor/gravity-non-contact-digital-water-liquid-level-sensor-for-arduino-sen0204/
+
+10)Η/Υ 
+
+11)2 δοχεία μαζί με σωληνώσεις για υλοποίηση δοκιμών
+
